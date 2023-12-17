@@ -7,11 +7,9 @@
 
 ## Authors
 
-- MAN NHI BTATA
+- HERE IS ADEEL BARA
 ## Support Group
-
-- [Join (Only Access for Bots) ](https://chat.whatsapp.com/IZhmddusPM41KkDXZkeRio)
-
+JANIII LOVE U 
 ## Own
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
